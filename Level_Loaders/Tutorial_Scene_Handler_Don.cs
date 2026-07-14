@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿//This script is used to fade the screen to black in between levels
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

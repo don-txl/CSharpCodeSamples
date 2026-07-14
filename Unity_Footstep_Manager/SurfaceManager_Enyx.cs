@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿//This script is used to assign textures to various footstep sounds associated with FMOD event sound files. This is how FMOD knows whioch sound to play 
+using UnityEngine;
 using UnityStandardAssets.Characters.FirstPerson;
 using UnityEngine.VR;
 

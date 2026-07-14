@@ -1,4 +1,6 @@
-﻿using System.Collections;
+﻿//Thi script was used to switch between cameras. It is used when wanting to make a 2d menu fill the entire users view in VR. It prevents the suer from looking away from a menu screen such as the main menu.
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿// This script is a trigger that is added to an object to cause the footstep sounds to play using FMOD
+using UnityEngine;
 using System.Collections;
 using UnityStandardAssets.Characters.FirstPerson;
 
